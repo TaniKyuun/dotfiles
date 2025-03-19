@@ -1,0 +1,56 @@
+{
+  /* IDE General Appereance */
+  "workbench.colorTheme": "Catppuccin Macchiato",
+  "workbench.navigationControl.enabled": false,
+  "workbench.tree.enableStickyScroll": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.activityBar.location": "top",
+  "workbench.sideBar.location": "right",
+  "workbench.statusBar.visible": false,
+  "workbench.startupEditor": "none",
+  "workbench.tips.enabled": false,
+  "workbench.tree.indent": 16,
+  "explorer.compactFolders": false,
+
+  /* IDE Line Numbers useful for vim */
+  "editor.lineNumbers": "relative",
+
+  /* IDE Icon Theme */
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.activeIconPack": "none",
+  "material-icon-theme.hidesExplorerArrows": true,
+
+  /* IDE Font Appereance  */
+  "editor.fontFamily": "FiraCode Nerd Font",
+  "editor.minimap.enabled": false,
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+
+  /* Code Formater */
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+
+  /* Cursor Animation */
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "phase",
+
+  /* Terminal */
+  "terminal.external.windowsExec": "C:\\Users\\Tani-kun\\AppData\\Local\\Programs\\Warp\\warp.exe",
+  "terminal.integrated.fontFamily": "FiraCode Nerd Font",
+  "terminal.integrated.fontSize": 14,
+
+  /* Extentions Settings*/
+  "vscord.app.name": "Visual Studio Code",
+
+  /* Recommend Extentions */
+  "recommendations": [
+    "vscodevim.vim",
+    "esbenp.prettier-vscode",
+    "catppuccin.catppuccin-vsc",
+    "pkief.material-icon-theme",
+    "alefragnani.project-manager"
+  ]
+}

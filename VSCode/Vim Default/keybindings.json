@@ -1,0 +1,15 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "alt+j",
+    "command": "workbench.action.toggleMaximizedPanel"
+  },
+  {
+    "key": "ctrl+p",
+    "command": "workbench.action.quickOpen"
+  },
+  {
+    "key": "ctrl+b",
+    "command": "workbench.action.toggleSidebarVisibility"
+  }
+]
